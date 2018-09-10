@@ -13,7 +13,12 @@ Project structure:
 
 /R includes an example of an analytical visualization of disasters impact on people and property. This could be executed locally, but it can also leverage data stored in HBase and accessed via GeoServer/GeoMese/SparkSQL querying HBase-stored data
 
-Environment setup followed the instruction presented at: www.geomesa.org, e.g.:
+HDP 3.0.0 and HDF 3.2 were used. Key services: HBase, NiFi, Kafka, Spark. Download releases from hortonworks.com.
+
+GeoServer 2.13.2 was installed and setup to leverage GeoMesa and HBase as a data source. Download GeoServer from: http://geoserver.org/release/stable/
+
+
+GeoMesa environment configuration followed the instructions presented at: www.geomesa.org, e.g.:
 
 https://www.geomesa.org/documentation/user/hbase/install.html
 
