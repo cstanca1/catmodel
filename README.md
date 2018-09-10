@@ -1,4 +1,4 @@
-# catmodel
+# Enable Catastrophe Modeling with Hortoworks Data Platforms, GeoMesa, GeoServer, QGIS, R
 CAT Modeling Leveraging Open Source, e.g. QGIS, GeoServer, GeoMesa and Hortonworks Data Platforms
 
 Project structure:
